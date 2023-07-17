@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666723808/portfoliyo/api_oijqgy.svg" width="100%"
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://res.cloudinary.com/dv0e2cfok/image/upload/v1668028966/My%20Stuff/animation_500_laa5d52j_vdcjjq.gif" />
 
-<br>
-<p align="center">
-  <img src="https://github.com/Chamodya23](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="30%"
-</p>
+
+
+<h1 align="center">Hi 👋, I'm Randima Dilshani</h1>
 <hr>
 <h4>∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
