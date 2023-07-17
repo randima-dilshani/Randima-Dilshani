@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Randima Dilshani Gunarathna</h1>
+<p align="center">
+  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666723808/portfoliyo/api_oijqgy.svg" width="100%"
+</p>
+
+<br>
+<p align="center">
+  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666757580/Github%20Bio/animation_500_l9p4ee3z_ccvzmu.gif" width="30%"
+</p>
 <hr>
 <h4>∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
