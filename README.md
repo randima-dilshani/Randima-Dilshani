@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <img src="https://res.cloudinary.com/dx1pvvqg7/image/upload/v1666757580/Github%20Bio/animation_500_l9p4ee3z_ccvzmu.gif" width="30%"
+  <img src="https://github.com/Chamodya23](https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="30%"
 </p>
 <hr>
 <h4>∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
