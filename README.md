@@ -20,7 +20,7 @@
 - 📫 How to reach me **randimadilshani98@gmail.com**
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="center"><img src="https://res.cloudinary.com/dotz6cdgt/image/upload/v1689582778/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966_fmzqm0.gif" width="30%"/></p>
+<p align="center"><img src="https://res.cloudinary.com/dotz6cdgt/image/upload/v1689583264/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966_fthkma.gif" width="50%"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randima-dilshani&label=Profile%20views&color=0e75b6&style=flat" alt="randimadilshani" /> </p>
 
