@@ -20,7 +20,7 @@
 - 📫 How to reach me **randimadilshani98@gmail.com**
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="center"><img src="https://res.cloudinary.com/dotz6cdgt/image/upload/v1689582778/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966_fmzqm0.gif" /></p>
+<p align="center"><img src="https://res.cloudinary.com/dotz6cdgt/image/upload/v1689582778/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966_fmzqm0.gif" width="30%"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randima-dilshani&label=Profile%20views&color=0e75b6&style=flat" alt="randimadilshani" /> </p>
 
@@ -56,6 +56,6 @@
 
 ![snake gif](https://github.com/SajaniJayasinghe/SajaniJayasinghe/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
