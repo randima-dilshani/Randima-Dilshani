@@ -48,4 +48,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="left">Activity Graph</h3>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dthiwanka/dthiwanka/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/randima-dilshani/randima-dilshani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/randima-dilshani/randima-dilshani/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
