@@ -9,9 +9,11 @@
 <h4>∙ Thank You for taking the time to view my GitHub Profile :dizzy: </h4>
 <hr>
 
-- 🌱 I’m currently Undergraduate Student at **Undergraduate Student at SLIIT | BSc (Hons) in Information Technology Specializing in Software Engineering |**
+- 🌱 I’m currently Undergraduate Student at **SLIIT | BSc (Hons) in Information Technology Specializing in Software Engineering**
   
-- 🔭 Former Apprentice Software engineer at [**eBuilder Sri Lanka**](https://www.ebuildersecurity.com/) 
+- 🔭 Former Apprentice Software Engineer at [**eBuilder Sri Lanka**](https://www.ebuildersecurity.com/)
+
+- 🔭 Former Software Engineer Intern at [**eBuilder Sri Lanka**](https://www.ebuildersecurity.com/) 
 
 - 🤝 I’m looking for help  **for my Projects**..
 
